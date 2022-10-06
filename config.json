@@ -1,0 +1,5 @@
+{
+  "token": "BOT_TOKEN",
+  "prefix": "BOT_PREFIX",
+  "color": "EMBED_COLOR"
+}
